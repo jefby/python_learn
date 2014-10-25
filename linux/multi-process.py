@@ -1,4 +1,5 @@
-'multiple process example'
+#!/usr/bin/env python
+#'multiple process example'
 #multi-process.py
 __author__ = 'jefby'
 
