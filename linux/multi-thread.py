@@ -2,6 +2,7 @@ __author__ = 'jefby'
 import time,threading
 
 #code that new thread will run
+
 def loop():
     print 'thread %s is running...' %threading.current_thread().name
     n = 0
